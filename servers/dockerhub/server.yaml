@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/5429470?s=200&v=4
 source:
   project: https://github.com/docker/hub-mcp
-  commit: ad806e2cab0489a296aec0f32f3d3eea807d65c2
+  commit: 5a7c80f57d9fc31558aebfaf3fd5dc6198aaaf30
 run:
   command:
     - --transport=stdio
