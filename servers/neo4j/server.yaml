@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/201120?v=4
 source:
   project: https://github.com/neo4j/mcp
-  commit: 385f4ef1bc19f96765e1b31d6495927157eb1d8a
+  commit: a9e9d0912bfe5575a218df843dba9b62a8727194
 config:
   description: Configure the connection to Neo4j MCP Server
   secrets:
