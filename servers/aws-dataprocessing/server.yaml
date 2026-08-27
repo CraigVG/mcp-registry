@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 76ec6993aec4c6281e5250cbeba8db6a5863f2ff
+  commit: a7ca8dc3712d5864cda09dcb4a824b6ea0166cdb
   directory: src/aws-dataprocessing-mcp-server
 config:
   description: Configure AWS credentials for data processing access
